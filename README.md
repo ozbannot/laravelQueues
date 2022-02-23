@@ -12,6 +12,7 @@ curl -s https://laravel.build/sample | bash
 
 ・立ち上げ
 ./vendor/bin/sail up -d
+
 bashのところをエイリアスにしてもOK
 alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
 
