@@ -1,9 +1,11 @@
 ## Laravel Queues
 ・Laravelのキューを使用
+
 https://readouble.com/laravel/8.x/ja/queues.html
 
 ## Laravel　Sail
 ・Sailを使用し、Docker環境構築の簡略化
+
 https://readouble.com/laravel/8.x/ja/sail.html
 
 ## Exe
