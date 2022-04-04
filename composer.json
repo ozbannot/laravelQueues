@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "aws/aws-sdk-php": "^3.218",
         "fruitcake/laravel-cors": "^2.0.5",
         "google/protobuf": "^3.20",
         "guzzlehttp/guzzle": "^7.2",
